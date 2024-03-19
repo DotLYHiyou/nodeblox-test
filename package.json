@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@mfd/rbxdatastoreservice": "^2.3.11",
+    "dotenv": "^16.4.5",
+    "noblox.js": "^4.15.1"
+  }
+}
